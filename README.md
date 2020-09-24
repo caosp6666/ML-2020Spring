@@ -46,7 +46,6 @@
 
 ### kaggle注册与[kaggle-API](https://github.com/Kaggle/kaggle-api)使用
 
-- caosp6666@163.com / csp819426311 / username: albertcsp
 - `pip install kaggle`
 - 在my account页面create kaggle API token，生成的json文件放到~/.kaggle/kaggle.json
 - 修改权限`chmod 600 ~/.kaggle/kaggle.json`
